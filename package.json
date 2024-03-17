@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "myTube Backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "noodemon src/index.js"
+  },
+  "author": "Shreyas Myana",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
+}
